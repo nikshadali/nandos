@@ -1,0 +1,63 @@
+.header-section{
+    background-image: url('./img/Carousel.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    padding: 15% 15%;
+    text-align: center;
+}
+.main-heading{
+    transform: rotate(-5deg);
+    color: #fff;
+   
+    font-family: 'Nandos-Regular';
+    font-size: 3.5rem;
+
+}
+.main-heading::before, .main-heading::after{
+    content: '';
+    width: 140px;
+    height: 14px;
+    background-image: url('./img/squiggly-line-white.png');
+    display: block;
+    left: 45%;
+    position: absolute;
+    top: -1rem;
+    font-size: 1rem;
+    
+}
+.main-heading::after{
+    top:8.5rem;
+    transform: rotate(0deg);
+
+}
+.phara-section{
+    color: #fff;
+    font-size: 1rem;
+    font-weight: 500;
+    padding-top: 2%;
+}
+.home-btn{
+    background-color: #01e2c2;
+    color: #000;
+    margin: 1% 20%;
+    padding:8px 50px;
+   font-weight: 500;
+   position: relative;
+   font-size: 1rem;
+}
+.home-btn:hover{
+    background-color: aquamarine;
+    color: #000;
+}
+.home-btn::before{
+    content: "";
+    display: inline-block;
+    width: 0;
+    height: 0;
+    border: 0.5357142857em transparent solid;
+    border-top: 0.75em solid #f701b5;
+    position: absolute;
+    top: -0.25em;;
+    left: 0.4em;
+}

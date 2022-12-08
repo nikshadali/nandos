@@ -1,0 +1,45 @@
+.eating-section{
+    border-top: 5px solid #000;
+    transform: rotate(-2deg);
+    margin-top: -40px;
+}
+.eating{
+    background-image: url('./img/Eating-at-Nandos.jpg');
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    height: 70vh;
+    align-items: center;
+    padding: 15% 13%;
+      
+}
+.heading{
+    font-family: 'Nandos-Regular';
+    font-size: 3.5rem;
+    color: #fff;
+    
+
+}
+.section-para{
+    color: #fff;
+    font-size: 1rem;
+    font-weight: 500;
+}
+.find{
+    background-image: url('./img/Find-a-Nandos_1.webp');
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    height: 70vh;
+    align-items: center;
+    padding: 15% 13%;
+
+}
+.form-div{
+    background-color: rgba(0,0,0,0.8);
+    padding: 1rem;
+    color: #fff;
+}
+.form-div input[type="text"]{
+    width: 100%;
+}

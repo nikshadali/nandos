@@ -1,0 +1,34 @@
+.footer{
+    background-color: #FF1C4A;
+    width: 100%;
+    position: absolute;
+    top:70vh;
+    position: fixed;
+    padding: 3.5% 35%;
+    text-align: center;
+
+    
+   
+}
+.footer-heading{
+   font-size: 1.5rem;
+  
+}
+
+.button{
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.5rem;
+    font-weight: 500;
+    padding-bottom: 3%;
+}
+.button:hover{
+    color: #fff;
+
+}
+@media (max-width:991.98px){
+}
+@media (max-width:575.98px){
+   
+    
+}
