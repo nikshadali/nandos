@@ -6,6 +6,7 @@
     position: fixed;
     padding: 3.5% 35%;
     text-align: center;
+   
 
     
    
@@ -26,9 +27,16 @@
     color: #fff;
 
 }
+.footer-empty{
+    height: 35vh;
+}
 @media (max-width:991.98px){
 }
 @media (max-width:575.98px){
+    .footer{
+        padding: 3% 5%;
+        text-align: left;
+    }
    
     
 }

@@ -1,0 +1,48 @@
+.social-section{
+    background-color: #55ACEE;
+    height: 70vh;
+    position: relative;
+   
+    padding: 8% 7%;
+    text-align: start;
+}
+.social-section .row{
+    display: flex;
+    justify-content: space-between;
+}
+
+.social-section::before{
+    content: "";
+    background:#dcdcdc url('./img/social-timeline-desktop.jpg');
+    background-size: cover;
+    width: 100%;
+    height: 60px;
+    position: absolute;
+    top: 0px;
+    left: 0;
+}
+.social-section::after{
+    content: "";
+    background:#dcdcdc url('./img/social-timeline-desktop.jpg');
+    background-size: cover;
+    width: 100%;
+    height: 60px;
+    position: absolute;
+    top: 70vh;
+    left: 0;
+}
+.social-section-phara{
+    color: #fff;
+    font-size: 1.2rem;
+    font-weight: 500;
+   
+}
+
+a {
+    color: #fff;
+    margin: 0 5px;
+}
+
+a:hover{
+    color:purple !important;
+}

@@ -8,9 +8,9 @@
     background-size: cover;
     background-position: center;
     text-align: center;
-    height: 70vh;
+    height: auto;
     align-items: center;
-    padding: 15% 13%;
+    padding: 10% 13%;
       
 }
 .heading{
@@ -30,16 +30,32 @@
     background-size: cover;
     background-position: center;
     text-align: center;
-    height: 70vh;
+    height: auto;
     align-items: center;
-    padding: 15% 13%;
+    padding: 10% 13%;
 
 }
 .form-div{
     background-color: rgba(0,0,0,0.8);
     padding: 1rem;
     color: #fff;
+    text-align: start;
+    padding: 5% 5%;
+   
+   
 }
 .form-div input[type="text"]{
-    width: 100%;
+    width: 90%;
+    border: none;
+    outline: none;
+    height: 40px;
+    margin-top: 2%;
+   
+    
+}
+.finding-link{
+    display:inline-block;
+    color: #fff;
+    font-size: 1.5rem;
+    margin-top: 7%;
 }
