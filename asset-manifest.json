@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/nandos/static/css/main.380dbe8f.css",
+    "main.css": "/nandos/static/css/main.14cdbbd9.css",
     "main.js": "/nandos/static/js/main.5a162c51.js",
     "static/media/Eating-at-Nandos.jpg": "/nandos/static/media/Eating-at-Nandos.310e6216ce7814d2822f.jpg",
     "static/media/Carousel.jpg": "/nandos/static/media/Carousel.7578b88004ea4c0da4e8.jpg",
     "static/media/Find-a-Nandos_1.webp": "/nandos/static/media/Find-a-Nandos_1.690bde322cf50a3ac90a.webp",
     "static/media/nandos-logo.svg": "/nandos/static/media/nandos-logo.85a84e6231c627e7b9771d37d2381008.svg",
     "index.html": "/nandos/index.html",
-    "main.380dbe8f.css.map": "/nandos/static/css/main.380dbe8f.css.map",
+    "main.14cdbbd9.css.map": "/nandos/static/css/main.14cdbbd9.css.map",
     "main.5a162c51.js.map": "/nandos/static/js/main.5a162c51.js.map"
   },
   "entrypoints": [
-    "static/css/main.380dbe8f.css",
+    "static/css/main.14cdbbd9.css",
     "static/js/main.5a162c51.js"
   ]
 }
