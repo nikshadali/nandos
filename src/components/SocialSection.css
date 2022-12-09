@@ -1,6 +1,6 @@
 .social-section{
     background-color: #55ACEE;
-    height: 70vh;
+    height: 60vh;
     position: relative;
    
     padding: 8% 7%;
@@ -28,7 +28,7 @@
     width: 100%;
     height: 60px;
     position: absolute;
-    top: 70vh;
+    top: 60vh;
     left: 0;
 }
 .social-section-phara{
@@ -44,5 +44,5 @@ a {
 }
 
 a:hover{
-    color:purple !important;
+    color:#F701B5 !important;
 }

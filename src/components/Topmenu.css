@@ -2,14 +2,15 @@
     width: 135px !important;
 }
 .navitem{
-    padding: 0.8% 1.5%;
+    padding: 0px 1.5%;
+    max-height: 100px;
 }
 .itemlist{
     text-transform: uppercase;
-    font-size: 1.2rem;
+    font-size: 1.1rem;
     font-weight: 500;
     color: black !important;
-    padding: 0.1% 3% !important;
+    padding: 5px 3% !important;
     margin-left: 15%;
     
 }
