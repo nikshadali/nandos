@@ -1,5 +1,5 @@
 .header-section{
-    background-image: url('./img/Carousel.jpg');
+    background-image: url('../img/Carousel.jpg');
     background-size: cover;
     background-position: center;
     height: 100vh;
@@ -18,7 +18,7 @@
     content: '';
     width: 140px;
     height: 14px;
-    background-image: url('./img/squiggly-line-white.png');
+    background-image: url('../img/squiggly-line-white.png');
     display: block;
     left: 45%;
     position: absolute;
@@ -41,10 +41,11 @@
     background-color: #01e2c2;
     color: #000;
     margin: 1% 20%;
-    padding:8px 50px;
-   font-weight: 500;
+    padding:6px 30px;
+   font-weight: bold;
    position: relative;
-   font-size: 1rem;
+   font-size: 1.2rem;
+   border-radius: 0 !important;
 }
 .home-btn:hover{
     background-color: aquamarine;

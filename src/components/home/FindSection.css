@@ -4,29 +4,31 @@
     margin-top: -40px;
 }
 .eating{
-    background-image: url('./img/Eating-at-Nandos.jpg');
+    background-image: url('../img/Eating-at-Nandos.jpg');
     background-size: cover;
     background-position: center;
     text-align: center;
     height: auto;
     align-items: center;
     padding: 10% 13%;
+    
       
 }
 .heading{
     font-family: 'Nandos-Regular';
     font-size: 3.5rem;
     color: #fff;
-    
+    transform: rotate(2deg);
 
 }
 .section-para{
     color: #fff;
     font-size: 1rem;
     font-weight: 500;
+    transform: rotate(2deg);
 }
 .find{
-    background-image: url('./img/Find-a-Nandos_1.webp');
+    background-image: url('../img/Find-a-Nandos_1.webp');
     background-size: cover;
     background-position: center;
     text-align: center;
@@ -44,12 +46,15 @@
    
    
 }
+.search{
+    background-color: red;
+}
 .form-div input[type="text"]{
     width: 90%;
     border: none;
     outline: none;
-    height: 40px;
-    margin-top: 2%;
+    height: 35px;
+   
    
     
 }
@@ -57,5 +62,8 @@
     display:inline-block;
     color: #fff;
     font-size: 1.5rem;
-    margin-top: 7%;
+    margin-top: 2%;
+}
+.stright{
+    transform: rotate(2deg);
 }
